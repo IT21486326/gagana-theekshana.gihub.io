@@ -5,9 +5,11 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GitHub Pages
+# Gagana Theekshana
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
+
+
 
 <!--
   <<< Author notes: Start of the course >>>
